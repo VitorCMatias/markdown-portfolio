@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am a bachelor student of Electronic Engineering at **University of São Paulo**, and an enthusiast of *C*, *C++* and *Python*. In my free time I enjoy work in personal projects, read and write about things that are interesting to me.
